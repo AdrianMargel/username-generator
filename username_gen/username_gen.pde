@@ -6,7 +6,7 @@
   Controls:
     SPACE - Generate a new username
   
-  written by Adrian Margel, Spring 2015
+  written by Adrian Margel, Spring 2016
 */
 String[] word1={"Cake","Bunny","Gummy","Shadow","Dream","Shard","DeepSea","Fire","Ice","Frozen","Flaming","Shattered","Night","Lonely","Deadly","Wet","Screaming","Falling","Blazing","Loud"
                   ,"Glowing","Dragon","Messy","Shovel","Hyper","Spear","First","Blinding","Dark","Oil","Flesh","Paper","Written","Open","Magic","Dead","Living","Rizen","Vibrent","Bent","Broken"
