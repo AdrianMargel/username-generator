@@ -1,7 +1,8 @@
 # Username Generator
 This program generates random usernames
 
-__Example generated usernames:__
+Example generated usernames:
+___
 Deadly Goat
 Fire Meteor
 Raw Unicorn
