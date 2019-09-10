@@ -3,7 +3,7 @@ This program generates random usernames
 
 The code was written winter early 2016.
 
-Example generated usernames:
+## Example generated usernames:
 - Deadly Goat
 - Fire Meteor
 - Raw Unicorn
