@@ -1,6 +1,8 @@
 # Username Generator
 This program generates random usernames
 
+The code was written winter early 2016.
+
 Example generated usernames:
 - Deadly Goat
 - Fire Meteor
